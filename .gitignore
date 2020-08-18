@@ -1,0 +1,27 @@
+# Pycharm
+*.idea
+*.pyc
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Unit test / coverage reports
+.coverage
+.coverage.*
+coverage.xml
+.pytest_cache
+.pytest_cache/*
+unit_tests/test_reports/*
+
+# pyenv
+.python-version
+
+# dotenv
+.env
+
+# virtualenv
+venv/
+ENV/
+
+# visual studio code dir
+.vs/
